@@ -1,2 +1,2 @@
-# ResearchNotebooks
-This repository is for posting my research notebooks
+# Research Notebooks
+This repository is for posting my Jupyter Notebooks from undergraduate research
